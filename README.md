@@ -186,6 +186,10 @@ Inside that directory, you can run several commands:
   yarn playwright codegen
     Auto generate tests with Codegen.
 
+   yarn playwright test --headed
+    Run the tests in headed mode
+
+
 We suggest that you begin by typing:
 
     yarn playwright test
